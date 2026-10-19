@@ -1,4 +1,4 @@
-ZSM – wersja demonstracyjna PWA
+Szkoła im. Janka Muzykanta w Tralalowicach – wersja demonstracyjna PWA
 
 1. Rozpakuj ZIP.
 2. Wgraj zawartość (index.html, manifest.webmanifest, sw.js i ikony) do publicznego folderu hostingu HTTPS, np. GitHub Pages.

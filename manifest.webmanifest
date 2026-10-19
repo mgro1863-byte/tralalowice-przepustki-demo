@@ -1,7 +1,7 @@
 {
-  "name": "ZSM Gdańsk-Wrzeszcz – Przepustki DEMO",
-  "short_name": "ZSM Czytnik",
-  "description": "Demonstracyjny czytnik przepustek QR ZSM",
+  "name": "Szkoła im. Janka Muzykanta w Tralalowicach – Przepustki DEMO",
+  "short_name": "Tralalowice Czytnik",
+  "description": "Demonstracyjny czytnik przepustek QR fikcyjnej szkoły",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
